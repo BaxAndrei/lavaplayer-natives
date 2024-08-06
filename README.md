@@ -1,2 +1,1 @@
-# lavaplayer-natives
-Native libraries for Lavaplayer
+I don't have a problem with abandoning a project, but at least leave instructions on how to create the archive myself with the binaries in it to add my own changes. I've tried everything possible but I can't export the connector for windows and linux.
